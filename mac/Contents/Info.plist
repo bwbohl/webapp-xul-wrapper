@@ -5,11 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
-	<string>app</string>
+	<string>{{MODULE}}</string>
 	<key>CFBundleGetInfoString</key>
 	<string>Webapp XUL Wrapper {{VERSION}}, © 2012 Contributors</string>
 	<key>CFBundleIconFile</key>
-	<string>app</string>
+	<string>{{MODULE}}</string>
 	<key>CFBundleIdentifier</key>
 	<string>org.webapp.xulwrapper</string>
 	<key>CFBundleInfoDictionaryVersion</key>
